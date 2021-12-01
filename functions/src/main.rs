@@ -29,6 +29,7 @@ fn return_demo() -> i32 {
     5
 }
 
+// return function
 fn return_demo2(x: i32) -> i32 {
-    x + 1
+    x + 1 //;
 }
